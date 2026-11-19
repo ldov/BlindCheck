@@ -1,4 +1,4 @@
->> [Versão em Português do Projeto](https://github.com/ldov/BlindCheck/edit/main/README-PT.md)
+>> [Versão em Português do Projeto](https://github.com/ldov/BlindCheck/blob/main/README-PT.md)
 
 ---
 
